@@ -1,2 +1,5 @@
 # Celebal-Internship-2k26
-Data Science Intern at Celebal Technologies Excellence Program, leveraging machine learning, data analytics, and visualization to solve real-world challenges.
+
+This repository documents the journey, projects, and key learnings from the Celebal Technologies Excellence Program (CEI) 2026. As a Data Science Intern, the core focus of this experience is on leveraging machine learning, advanced data analytics, and interactive data visualization to tackle complex, real-world challenges. It serves as a comprehensive portfolio that showcases hands-on technical growth, problem-solving skills, and the practical application of data science concepts in a professional business context.
+
+In addition to housing future codebases, analytical models, and project reports, this repository currently includes essential program resources. Within the Guidelines section, you will find official documentation, program instructions, and promotional media assets—such as internship badges and LinkedIn banners—that highlight active participation in the Celebal ecosystem. Ultimately, this space is designed to reflect both a commitment to mastering data science tools and continuous professional development throughout the internship.
